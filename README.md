@@ -7,7 +7,6 @@ Tugasmu disini adalah memodifikasi file-file berikut:
 - [`scripts/sortCarByYearDecendingly.js`](./scripts/sortCarByYearDecendingly.js)
 
 Dimana masing-masing file tersebut terdapat sebuah fungsi. Penjelasan terkait fungsi-fungsi tersebut dapat dilihat pada bagian selanjutnya.
-
 ## `filterCarByAvailability`
 
 Disini kamu akan membuat sebuah fungsi yang berguna untuk menyaring daftar mobil,
